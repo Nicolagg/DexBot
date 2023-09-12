@@ -1,5 +1,3 @@
-# Dexbot
-
 ## Description
 
 Dexbot is a Telegram bot designed as a personal project to enhance coding capabilities, specifically in the context of blockchain and cryptocurrency trading. Developed by a data engineer exploring new avenues in software development, the bot utilizes the 1inch API for price and transaction information and employs web3.py for executing purchases and transfers. It is in active development.
