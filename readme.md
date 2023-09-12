@@ -31,7 +31,7 @@ As a personal project, the bot serves primarily as an exploration into blockchai
 The bot is currently lacking comprehensive security features. As such, it is advised to use this bot only for experimental or educational purposes until robust security measures are implemented.
 
 ## Go to the project
-[Full repository]()
+[Full repository](https://github.com/Nicolagg/DexBot/tree/main)
 
 
 ## Bot overview
